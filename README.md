@@ -1,5 +1,7 @@
 # Workshop Details
 
+![](images/meow.gif?raw=true "Cat Gif")
+
 In this workshop you will learn how to leverage GitHub to collaborate with other members of your team.
 
 1. Create a User on GitHub.com
